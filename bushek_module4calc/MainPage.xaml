@@ -13,7 +13,7 @@
                Grid.ColumnSpan="2"
                Grid.Row="0"
                FontSize="Medium"
-               TextColor="AntiqueWhite"/>
+               TextColor="Black"/>
 
         <Border Grid.Column="0"
                 Grid.Row="1"
@@ -73,7 +73,7 @@
                 <Label x:Name="heightLabel"
                        HorizontalTextAlignment="Center"
                        FontSize="25"
-                       TextColor="White"/>
+                       TextColor="Black"/>
 
             </VerticalStackLayout>
 
@@ -100,7 +100,7 @@
                 <Label x:Name="weightLabel"
                           HorizontalTextAlignment="Center"
                           FontSize="25"
-                          TextColor="White"/>
+                          TextColor="Black"/>
 
             </VerticalStackLayout>
 
